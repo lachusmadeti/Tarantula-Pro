@@ -1,4 +1,4 @@
-# Tarantula-Pro
+﻿# Tarantula-Pro
 Firmware Homers Odysseus/Tevo Tarantula Pro.  
 MKS SGEN L v1.0 and MKS Mini 12864 LCD.  
 Only files for the Marlin directory, you need a Marlin Firmware, download from https://marlinfw.org/meta/download/ and substitute the Marlin directory files inside.
